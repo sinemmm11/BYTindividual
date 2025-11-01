@@ -1,0 +1,14 @@
+/Users/sinemmutlu/Desktop/Part one/PartOneTests/BYT3/BYT3_task2/bin/Debug/net8.0/BYT3_task2
+/Users/sinemmutlu/Desktop/Part one/PartOneTests/BYT3/BYT3_task2/bin/Debug/net8.0/BYT3_task2.deps.json
+/Users/sinemmutlu/Desktop/Part one/PartOneTests/BYT3/BYT3_task2/bin/Debug/net8.0/BYT3_task2.runtimeconfig.json
+/Users/sinemmutlu/Desktop/Part one/PartOneTests/BYT3/BYT3_task2/bin/Debug/net8.0/BYT3_task2.dll
+/Users/sinemmutlu/Desktop/Part one/PartOneTests/BYT3/BYT3_task2/bin/Debug/net8.0/BYT3_task2.pdb
+/Users/sinemmutlu/Desktop/Part one/PartOneTests/BYT3/BYT3_task2/obj/Debug/net8.0/BYT3_task2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sinemmutlu/Desktop/Part one/PartOneTests/BYT3/BYT3_task2/obj/Debug/net8.0/BYT3_task2.AssemblyInfoInputs.cache
+/Users/sinemmutlu/Desktop/Part one/PartOneTests/BYT3/BYT3_task2/obj/Debug/net8.0/BYT3_task2.AssemblyInfo.cs
+/Users/sinemmutlu/Desktop/Part one/PartOneTests/BYT3/BYT3_task2/obj/Debug/net8.0/BYT3_task2.csproj.CoreCompileInputs.cache
+/Users/sinemmutlu/Desktop/Part one/PartOneTests/BYT3/BYT3_task2/obj/Debug/net8.0/BYT3_task2.dll
+/Users/sinemmutlu/Desktop/Part one/PartOneTests/BYT3/BYT3_task2/obj/Debug/net8.0/refint/BYT3_task2.dll
+/Users/sinemmutlu/Desktop/Part one/PartOneTests/BYT3/BYT3_task2/obj/Debug/net8.0/BYT3_task2.pdb
+/Users/sinemmutlu/Desktop/Part one/PartOneTests/BYT3/BYT3_task2/obj/Debug/net8.0/BYT3_task2.genruntimeconfig.cache
+/Users/sinemmutlu/Desktop/Part one/PartOneTests/BYT3/BYT3_task2/obj/Debug/net8.0/ref/BYT3_task2.dll
