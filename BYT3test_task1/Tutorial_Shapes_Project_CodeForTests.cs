@@ -44,7 +44,7 @@ namespace Tut2_s20123_Tests
             Assert.That(cylinder.CalculateVolume(), Is.EqualTo(197.920).Within(0.001)); // πr²h
         }
 
-        // Üretim kodu exception fırlatmadığı için:
+     
         [Test]
         public void TestCylinder_InvalidArguments_ThrowException()
         {
@@ -94,7 +94,7 @@ namespace Tut2_s20123_Tests
             Assert.That(cube.CalculateVolume(), Is.EqualTo(64).Within(0.001)); // a³
         }
 
-        // Üretim kodu exception fırlatmadığı için:
+       
         [Test]
         public void TestCube_InvalidSide_ThrowsException()
         {
